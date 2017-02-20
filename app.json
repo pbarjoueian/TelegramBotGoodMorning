@@ -1,0 +1,16 @@
+{
+  "name": "TelegramBotGoodMorning",
+  "description": "telegram bot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
