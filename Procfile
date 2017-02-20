@@ -1,1 +1,1 @@
-bot: Java Main.java
+worker: java -cp target/classes:/target/dependency/* Main
