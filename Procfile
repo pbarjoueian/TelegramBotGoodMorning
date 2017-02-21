@@ -1,1 +1,1 @@
-web: java -cp target/classes/;target/dependency/* com.telegramBot.Main
+worker: sh target/classes/com/telegramBot/main
