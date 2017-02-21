@@ -1,1 +1,1 @@
-worker: sh target/classes/com/telegramBot/main
+worker: sh target/bin/telegramBot/main
